@@ -1,0 +1,15 @@
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\CountingYearsOnThisPlanet\CountingYearsOnThisPlanet\bin\Debug\net6.0\CountingYearsOnThisPlanet.exe
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\CountingYearsOnThisPlanet\CountingYearsOnThisPlanet\bin\Debug\net6.0\CountingYearsOnThisPlanet.deps.json
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\CountingYearsOnThisPlanet\CountingYearsOnThisPlanet\bin\Debug\net6.0\CountingYearsOnThisPlanet.runtimeconfig.json
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\CountingYearsOnThisPlanet\CountingYearsOnThisPlanet\bin\Debug\net6.0\CountingYearsOnThisPlanet.dll
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\CountingYearsOnThisPlanet\CountingYearsOnThisPlanet\bin\Debug\net6.0\ref\CountingYearsOnThisPlanet.dll
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\CountingYearsOnThisPlanet\CountingYearsOnThisPlanet\bin\Debug\net6.0\CountingYearsOnThisPlanet.pdb
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\CountingYearsOnThisPlanet\CountingYearsOnThisPlanet\obj\Debug\net6.0\CountingYearsOnThisPlanet.csproj.AssemblyReference.cache
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\CountingYearsOnThisPlanet\CountingYearsOnThisPlanet\obj\Debug\net6.0\CountingYearsOnThisPlanet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\CountingYearsOnThisPlanet\CountingYearsOnThisPlanet\obj\Debug\net6.0\CountingYearsOnThisPlanet.AssemblyInfoInputs.cache
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\CountingYearsOnThisPlanet\CountingYearsOnThisPlanet\obj\Debug\net6.0\CountingYearsOnThisPlanet.AssemblyInfo.cs
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\CountingYearsOnThisPlanet\CountingYearsOnThisPlanet\obj\Debug\net6.0\CountingYearsOnThisPlanet.csproj.CoreCompileInputs.cache
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\CountingYearsOnThisPlanet\CountingYearsOnThisPlanet\obj\Debug\net6.0\CountingYearsOnThisPlanet.dll
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\CountingYearsOnThisPlanet\CountingYearsOnThisPlanet\obj\Debug\net6.0\ref\CountingYearsOnThisPlanet.dll
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\CountingYearsOnThisPlanet\CountingYearsOnThisPlanet\obj\Debug\net6.0\CountingYearsOnThisPlanet.pdb
+C:\Users\Amadeusz Bujalski\Desktop\Amadeo\programowanie\c#\CountingYearsOnThisPlanet\CountingYearsOnThisPlanet\obj\Debug\net6.0\CountingYearsOnThisPlanet.genruntimeconfig.cache
